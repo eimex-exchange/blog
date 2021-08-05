@@ -11,7 +11,7 @@ for Bitcoin, Ethereumm, Polkadot, Litecoin, Bitcoin Cash, Tether, USD Coin, Bina
 ![Guest](https://raw.githubusercontent.com/eirex-exchange/blog/master/preview_release/screen_guest.png)
 
   -->
-##### Environments
+#### Environments
 
 Early access to the production trading environment is granted on a case by case at this time. However 
 access to the test environment is available to everyone. The test environment is an almost exact copy
@@ -22,7 +22,7 @@ of production.
 | Main       | [https://eirex.com/](https://eirex.com/)  |
 | Test       | [https://test.eirex.com](https://test.eirex.com)  |
 
-##### Trading API
+#### Trading API
 
 Development has very much been done with an API first approach with performance and ease of use formost priorities.
 Below are the URLs to access both the test and production environments.
