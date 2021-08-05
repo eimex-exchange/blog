@@ -1,7 +1,7 @@
 
 In the last year, the decentralized finance (DeFi) industry has experienced what can only be described as meteoric growth. But in recent months, the ballooning transaction fees on the Ethereum network have made the world of DeFi a rather expensive endeavor.
 
-![ETH Gas](https://raw.githubusercontent.com/eirex-exchange/blog/master/defi_growth/gas_pump_eth.png | width=100)
+![ETH Gas](https://raw.githubusercontent.com/eirex-exchange/blog/master/defi_growth/gas_pump_eth.png)
   
 ##### Trading Favors Whales
 
