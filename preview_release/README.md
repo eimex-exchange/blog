@@ -1,6 +1,4 @@
-Finally, after close to 15 months of development and 320 thousand lines of hand written 
-code we are providing users with an opportunity for early access to the platform.
-
+Finally, after close to 15 months of development we are providing users with an opportunity for early access the platform.
 If you would like to access the preview release please raise a request 
 at [support@eirex.com](mailto:support@eirex.com). Deposits and withdrawals are accepted 
 for Bitcoin, Ethereumm, Polkadot, Litecoin, Bitcoin Cash, Tether, USD Coin, Binance Coin, amongst many more.
