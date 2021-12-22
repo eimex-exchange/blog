@@ -1,6 +1,6 @@
 Lightning is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants.
 
-![Lightning Network](https://raw.githubusercontent.com/eirex-exchange/blog/master/lightning_network_launch/android_banner_light.png)
+![Lightning Network](https://raw.githubusercontent.com/eirex-exchange/blog/master/lightning_network_launch/lightning_network.png)
 
 The Lightning Network is dependent upon the underlying technology of the blockchain. By using real Bitcoin/blockchain transactions and using its native smart-contract scripting language, it is possible to create a secure network of participants which are able to transact at high volume and high speed.
 
