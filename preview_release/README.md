@@ -1,6 +1,6 @@
 Finally, after close to 15 months of development we are providing users with an opportunity for early access the platform.
 If you would like to access the preview release please raise a request 
-at [support@eirex.com](mailto:support@eirex.com). Deposits and withdrawals are accepted 
+at [support@eimex.exchange](mailto:support@eimex.exchange). Deposits and withdrawals are accepted 
 for Bitcoin, Ethereumm, Polkadot, Litecoin, Bitcoin Cash, Tether, USD Coin, Binance Coin, amongst many more.
 
 ![Login](https://raw.githubusercontent.com/eirex-exchange/blog/master/preview_release/screen_login.png)
@@ -17,8 +17,8 @@ of production.
 
 | Environment  | URL |
 | ------------- | ------------- |
-| Main       | [https://eirex.com/](https://eirex.com/)  |
-| Test       | [https://test.eirex.com](https://test.eirex.com)  |
+| Main       | [https://eimex.exchange/](https://eimex.exchange/)  |
+| Test       | [https://test.eimex.exchange](https://test.eimex.exchange)  |
 
 #### Trading API
 
@@ -27,9 +27,9 @@ Below are the URLs to access both the test and production environments.
 
 | Protocol  | Main | Test |
 | ------------ | ------------- | ----- |
-| FIX          | [tcp+ssl://fix.eirex.com:443](https://eirex.com/docs#fix)   | [tcp+ssl://testfix.eirex.com:443](https://test.eirex.com/docs#fix) |
-| WebSocket    | [wss://api.eirex.com/v1/ws](https://eirex.com/docs#ws)   | [wss://testapi.eirex.com/v1/ws](https://test.eirex.com/docs#ws) |
-| HTTP         |  [https://api.eirex.com/v1](https://eirex.com/docs#rest)  | [https://testapi.eirex.com/v1](https://test.eirex.com/docs#rest) |
+| FIX          | [tcp+ssl://fix.eimex.exchange:443](https://eimex.exchange/docs#fix)   | [tcp+ssl://testfix.eimex.exchange:443](https://test.eimex.exchange/docs#fix) |
+| WebSocket    | [wss://api.eimex.exchange/v1/ws](https://eimex.exchange/docs#ws)   | [wss://testapi.eimex.exchange/v1/ws](https://test.eimex.exchange/docs#ws) |
+| HTTP         |  [https://api.eimex.exchange/v1](https://eimex.exchange/docs#rest)  | [https://testapi.eimex.exchange/v1](https://test.eimex.exchange/docs#rest) |
 
 
 
